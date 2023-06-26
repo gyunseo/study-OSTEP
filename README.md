@@ -7,3 +7,7 @@
 ## OS:TEP 한글 pdf GitHub 레포
 
 - <https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean>
+
+## OS:TEP 숙제 GitHub 레포
+
+- <https://github.com/remzi-arpacidusseau/ostep-homework/>
