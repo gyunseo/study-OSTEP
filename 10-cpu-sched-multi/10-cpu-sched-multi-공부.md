@@ -38,6 +38,6 @@
 
 # 해결책: MQMS
 
-- 장점: 락과 cache contention이 더 이상 문제가 되지 않는다.
+- 장점: 락과 cache contention이 더 이상 문제가 되지 않는다. 캐시 affinity도 좋음.
 
 - 단점: 워크로드 불균형 -> migration
