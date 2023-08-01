@@ -62,7 +62,7 @@ TLB 성능에 관한 마지막 주요 사항이다. 위의 예제 프로그램�
 
 VPN | PFN | 다른 비트들(valid, prot, ASID 등등)
 
-TLB는 fully-associated cache이다.
+TLB는 fully-associative cache이다.
 
 ## TLB의 문제: 문맥 교환
 
